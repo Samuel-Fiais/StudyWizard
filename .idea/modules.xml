@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StudyWizard.iml" filepath="$PROJECT_DIR$/StudyWizard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/main_functions/main_functions.iml" filepath="$PROJECT_DIR$/main_functions/main_functions.iml" />
     </modules>
   </component>
 </project>
